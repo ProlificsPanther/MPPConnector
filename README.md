@@ -2,7 +2,7 @@
 
 Manta-Prolifics Purview Connector serves as an invaluable tool facilitating the seamless integration of MANTA's advanced lineage into existing Microsoft Purview solutions. MPP Connector is designed to enhance lineage availablity in Microsoft Purview leveraging the vast array of metadata & lineage information available through MANTA.
 
-![Alt Text](https://github.com/ProlificsPanther/MPPConnector/blob/Web/images/MPPLogo.png)
+![Alt Text](https://github.com/ProlificsPanther/MPPConnector/blob/Web/images/mpplogo.png)
 
 ## What Does It Do:
 
